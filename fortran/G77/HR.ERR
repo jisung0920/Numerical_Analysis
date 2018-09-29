@@ -1,0 +1,2 @@
+g77.exe: .for: No such file or directory
+0.33	\F\G77\BIN/g77.exe -ffree-form .for -o.exe ..\slatec\lib\libSLATEC.a ..\mine\*.o (return code 1)
